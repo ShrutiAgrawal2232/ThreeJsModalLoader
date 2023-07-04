@@ -9,7 +9,11 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "@react-three/drei": "^8.10.6",
+    "@react-three/fiber": "^7.0.26",
+    "loader-utils": "3.2.1",
+    "three": "^0.137.5"
   },
   "scripts": {
     "start": "react-scripts start",
