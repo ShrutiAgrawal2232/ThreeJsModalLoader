@@ -15,4 +15,4 @@ The page will reload when you make changes.\
 
 ## Sample UI
 
-![sample UI](https://drive.google.com/file/d/1H3OPvnhZzTMTl1YfqjeN3fg94QQEab3w/view?usp=sharing)
+![sample UI](https://drive.google.com/file/d/1H3OPvnhZzTMTl1YfqjeN3fg94QQEab3w/view)
